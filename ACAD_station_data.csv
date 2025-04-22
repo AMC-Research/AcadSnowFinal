@@ -1,0 +1,38 @@
+site,lat,long,y_proj,x_proj,elevation,aspect,slope,cover,aspect,Primary species influencing,Winter_Cancov_Pct,canopy_density,Summer_Cancov_Pct,VegMap_Desc,VegMap_Pattern,PCT_DECID
+C1A,44.34503,-68.21767,4910493.11,562358.05,152,119,NA,HARDWOOD,S-SE,"Quercus rubra/Fagus
+grandifolia/Acer saccharum",12,Low,53,"Aspen-Birch
+Woodland/Forest Complex
+(forest phase)",Evenly Dispersed,78
+C3A,44.34564,-68.21717,4910561.38,562397.68,168,171,NA,MIXEDWOOD,S-SW,"Abies balsamea/Acer
+pensylvanicum",33,Medium,45,White Pine - Hardwood Forest,Evenly Dispersed Evenly,25
+C3C,44.34571,-68.21726,4910569.42,562390.14,168,171,NA,HARDWOOD,S-SW,"Acer pensylvanicum/Betula
+papyrifera",24,Low,61,White Pine - Hardwood Forest,Evenly Dispersed,0
+C5C,44.34591,-68.2187,4910590,562275.45,201,121,NA,HARDWOOD,S-SE,"Alnus incana/Acer
+pensylvanicum/Betula",12,Low,49,"Aspen-Birch
+Woodland/Forest Complex
+(forest phase)",Evenly Dispersed,75
+C6A,44.34986,-68.2273,4911022.83,561585.79,442,100,NA,SOFTWOOD,S-SE,Picea rubens/Sorbus americana,24,Medium,41,"Spruce - Fir Forest
+(conifer phase)",Clumped/bunched ,40
+CT5E,44.34965,-68.22625,4911000.12,561669.21,442,151,NA,HARDWOOD SCRUB,S-SE,"Kalmia
+ angustifolia/Vaccinium
+angustifolium/Alnus incana",0,Low,1,"Blueberry Bald -
+Summit Shrubland
+Complex",Clumped/bunched ,100
+H1C,44.33253,-68.27806,4909061.1,557557.16,186,161,NA,SOFTWOOD,S-SW,Picea rubens/Abies balsamea,53,High,69,"Spruce - Fir Forest
+(conifer phase)","Evenly
+Dispersed",0
+H3C,44.3332,-68.27474,4909137.95,557821.6,238,256,NA,MIXEDWOOD,W-NW,Acer rubrum/Picea rubens,62,High,84,"Spruce - Fir Forest
+(conifer phase)","Evenly
+Dispersed",27
+HBULK,44.3326,-68.2796,4909067.81,557434.93,189,201,NA,OPEN,S-SE,Open/Picea rubens,10,Low,10,"Mixed Conifer
+Woodland",Clumped/bunched ,0
+HT1E,44.33178,-68.27786,4908978.85,557573.07,183,308,NA,HARDWOOD,N-NW,"Acer pensylvanicum/Acer
+rubrum/Picea rubens",43,Medium,69,"Spruce - Fir Forest
+(mixed phase)","Evenly
+Dispersed",38
+HT3C,44.33516,-68.27291,4909356.76,557965.84,280,254,NA,MIXEDWOOD,W-NW,"Picea rubens/Acer
+pensylvanicum",34,Medium,53,"Spruce - Fir Forest
+(conifer phase)","Evenly
+Dispersed",35
+PARKB,44.3739,-68.2606,4914036.84,558907,183,180,NA,OPEN,S-SW,Open,0,Low,0,Mixed Deciduous Shrubland,"Evenly
+Dispersed",0
